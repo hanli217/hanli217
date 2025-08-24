@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[trendtrading](http://trendtrading.github.io)
+学习成长
